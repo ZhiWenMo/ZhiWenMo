@@ -1,1 +1,5 @@
-[![Mo Zhiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhiWenMo)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dracula)
+# Hi, I am Mozhiwen.
+
+## Learning NLP, CV starter.
+
+![Mo Zhiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhiWenMo&show_icons=true&theme=dracula)
