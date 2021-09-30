@@ -1,4 +1,4 @@
-# Hi, I am Mo zhiwen.
+# Hi, I am Mo Zhiwen.
 
 - Learning NLP, CV starter.
 - Kaggler
